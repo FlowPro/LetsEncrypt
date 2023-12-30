@@ -20,7 +20,6 @@ outbound2g.letsencrypt.org
 outbound2h.letsencrypt.org
 outbound2i.letsencrypt.org
 outbound2j.letsencrypt.org
-acme-v01.api.letsencrypt.org
-acme-staging.api.letsencrypt.org
 acme-v02.api.letsencrypt.org
+prod.api.letsencrypt.org
 acme-staging-v02.api.letsencrypt.org
